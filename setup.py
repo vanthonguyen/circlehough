@@ -26,7 +26,7 @@ setup(
     name="circlehough",
     version='0.0.2',
     description='Perform Hough transformation for circle',
-    url='https://github.com/Laurits7/circlehough',
+    url='https://github.com/vanthonguyen/circlehough',
     author='Laurits Tani',
     author_email='laurits.tani@gmail.com',
     licence='MIT',
