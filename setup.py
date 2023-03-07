@@ -24,7 +24,7 @@ if USE_CYTHON:
 
 setup(
     name="circlehough",
-    version='0.0.1',
+    version='0.0.2',
     description='Perform Hough transformation for circle',
     url='https://github.com/Laurits7/circlehough',
     author='Laurits Tani',
